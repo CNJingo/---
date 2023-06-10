@@ -1,7 +1,9 @@
 # 네트워킹 하향식 접근 스터디 4주완성
 
 
-팀원 :
+팀원 
+
+
 [변지혜](https://github.com/wisdom08)
 
 [박민욱](https://github.com/JohnPrk)
