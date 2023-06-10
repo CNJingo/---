@@ -2,11 +2,11 @@
 
 
 팀원 :
-https://github.com/wisdom08
+[변지혜](https://github.com/wisdom08)
 
-https://github.com/JohnPrk
+[박민욱](https://github.com/JohnPrk)
 
-https://github.com/ji-junhyuk
+[지준혁](https://github.com/ji-junhyuk)
 
-https://github.com/CNJingo
+[배진우](https://github.com/CNJingo)
 
